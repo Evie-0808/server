@@ -1,0 +1,537 @@
+2025-09-16 06:40:36,110 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-16 06:40:36,112 INFO supervisord started with pid 177859
+2025-09-16 06:40:37,115 INFO spawned: 'backend' with pid 177947
+2025-09-16 06:40:37,116 INFO spawned: 'frontend' with pid 177948
+2025-09-16 06:40:37,245 WARN exited: backend (exit status 1; not expected)
+2025-09-16 06:40:37,359 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:40:38,363 INFO spawned: 'backend' with pid 178063
+2025-09-16 06:40:38,365 INFO spawned: 'frontend' with pid 178064
+2025-09-16 06:40:38,462 WARN exited: backend (exit status 1; not expected)
+2025-09-16 06:40:38,599 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:40:40,604 INFO spawned: 'backend' with pid 178095
+2025-09-16 06:40:40,606 INFO spawned: 'frontend' with pid 178096
+2025-09-16 06:40:40,858 WARN exited: backend (exit status 1; not expected)
+2025-09-16 06:40:40,865 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:40:43,871 INFO spawned: 'backend' with pid 178322
+2025-09-16 06:40:43,873 INFO spawned: 'frontend' with pid 178323
+2025-09-16 06:40:43,971 WARN exited: backend (exit status 1; not expected)
+2025-09-16 06:40:44,109 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-16 06:40:44,115 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:40:45,116 INFO gave up: frontend entered FATAL state, too many start retries too quickly
+2025-09-16 06:44:08,356 WARN received SIGINT indicating exit request
+2025-09-16 06:46:18,002 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-16 06:46:18,003 INFO supervisord started with pid 182580
+2025-09-16 06:46:19,005 INFO spawned: 'backend' with pid 182672
+2025-09-16 06:46:19,007 INFO spawned: 'frontend' with pid 182674
+2025-09-16 06:46:20,155 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:20,155 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:20,173 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:21,176 INFO spawned: 'frontend' with pid 182805
+2025-09-16 06:46:22,296 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:22,313 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:23,317 INFO spawned: 'frontend' with pid 183043
+2025-09-16 06:46:24,435 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:24,451 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:25,455 INFO spawned: 'frontend' with pid 183086
+2025-09-16 06:46:26,605 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:26,623 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:27,626 INFO spawned: 'frontend' with pid 183318
+2025-09-16 06:46:28,749 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:28,767 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:29,770 INFO spawned: 'frontend' with pid 183361
+2025-09-16 06:46:30,918 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:30,935 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:31,938 INFO spawned: 'frontend' with pid 183407
+2025-09-16 06:46:33,071 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:33,087 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:34,090 INFO spawned: 'frontend' with pid 183670
+2025-09-16 06:46:35,197 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:35,213 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:36,216 INFO spawned: 'frontend' with pid 183710
+2025-09-16 06:46:37,338 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:37,355 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:38,358 INFO spawned: 'frontend' with pid 183957
+2025-09-16 06:46:39,465 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:39,480 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:40,483 INFO spawned: 'frontend' with pid 183997
+2025-09-16 06:46:41,621 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:41,641 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:42,645 INFO spawned: 'frontend' with pid 184229
+2025-09-16 06:46:43,761 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:43,778 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:44,782 INFO spawned: 'frontend' with pid 184272
+2025-09-16 06:46:45,924 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:45,942 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:46,945 INFO spawned: 'frontend' with pid 184312
+2025-09-16 06:46:48,089 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:48,106 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:49,110 INFO spawned: 'frontend' with pid 184568
+2025-09-16 06:46:50,243 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:50,259 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:51,263 INFO spawned: 'frontend' with pid 184615
+2025-09-16 06:46:52,400 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:52,418 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:53,421 INFO spawned: 'frontend' with pid 184868
+2025-09-16 06:46:54,550 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:54,567 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:55,570 INFO spawned: 'frontend' with pid 184911
+2025-09-16 06:46:56,686 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:56,702 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:57,705 INFO spawned: 'frontend' with pid 185143
+2025-09-16 06:46:58,816 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:46:58,832 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:46:59,834 INFO spawned: 'frontend' with pid 185201
+2025-09-16 06:47:00,998 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:01,016 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:02,020 INFO spawned: 'frontend' with pid 185241
+2025-09-16 06:47:03,158 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:03,174 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:04,178 INFO spawned: 'frontend' with pid 185469
+2025-09-16 06:47:05,304 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:05,322 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:06,326 INFO spawned: 'frontend' with pid 185509
+2025-09-16 06:47:07,469 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:07,489 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:08,493 INFO spawned: 'frontend' with pid 185772
+2025-09-16 06:47:09,604 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:09,621 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:10,625 INFO spawned: 'frontend' with pid 185812
+2025-09-16 06:47:11,738 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:11,755 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:12,758 INFO spawned: 'frontend' with pid 186044
+2025-09-16 06:47:13,902 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:13,922 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:14,925 INFO spawned: 'frontend' with pid 186093
+2025-09-16 06:47:16,026 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:16,044 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:17,047 INFO spawned: 'frontend' with pid 186133
+2025-09-16 06:47:18,173 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:18,189 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:19,193 INFO spawned: 'frontend' with pid 186375
+2025-09-16 06:47:20,345 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:20,364 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:21,368 INFO spawned: 'frontend' with pid 186415
+2025-09-16 06:47:22,540 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:22,559 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:23,562 INFO spawned: 'frontend' with pid 186678
+2025-09-16 06:47:24,670 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:24,688 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:25,692 INFO spawned: 'frontend' with pid 186718
+2025-09-16 06:47:26,808 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:26,824 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:27,827 INFO spawned: 'frontend' with pid 186950
+2025-09-16 06:47:28,989 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:29,007 WARN exited: frontend (exit status 1; not expected)
+2025-09-16 06:47:30,010 INFO spawned: 'frontend' with pid 186993
+2025-09-16 06:47:31,158 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 06:47:31,159 WARN received SIGINT indicating exit request
+2025-09-16 06:47:31,159 INFO waiting for backend, frontend to die
+2025-09-16 06:47:31,170 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-16 06:47:31,263 INFO stopped: backend (exit status 0)
+2025-09-16 07:45:20,332 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-16 07:45:20,334 INFO supervisord started with pid 285461
+2025-09-16 07:45:21,336 INFO spawned: 'backend' with pid 285537
+2025-09-16 07:45:21,337 INFO spawned: 'frontend' with pid 285539
+2025-09-16 07:45:22,911 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 07:45:22,911 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 07:55:29,389 WARN received SIGINT indicating exit request
+2025-09-16 07:55:29,390 INFO waiting for backend, frontend to die
+2025-09-16 07:55:30,391 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-16 07:55:30,426 INFO stopped: backend (exit status 0)
+2025-09-16 08:16:17,233 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-16 08:16:17,236 INFO supervisord started with pid 310208
+2025-09-16 08:16:18,237 INFO spawned: 'backend' with pid 310289
+2025-09-16 08:16:18,239 INFO spawned: 'frontend' with pid 310294
+2025-09-16 08:16:19,794 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 08:16:19,794 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 08:18:16,551 WARN received SIGINT indicating exit request
+2025-09-16 08:18:16,551 INFO waiting for backend, frontend to die
+2025-09-16 08:18:17,554 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-16 08:18:17,728 INFO stopped: backend (exit status 0)
+2025-09-16 08:18:43,805 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-16 08:18:43,807 INFO supervisord started with pid 314335
+2025-09-16 08:18:44,808 INFO spawned: 'backend' with pid 314410
+2025-09-16 08:18:44,810 INFO spawned: 'frontend' with pid 314412
+2025-09-16 08:18:46,360 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 08:18:46,360 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 08:18:59,758 WARN received SIGINT indicating exit request
+2025-09-16 08:18:59,759 INFO waiting for backend, frontend to die
+2025-09-16 08:19:00,761 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-16 08:19:00,762 WARN received SIGINT indicating exit request
+2025-09-16 08:19:00,879 WARN received SIGINT indicating exit request
+2025-09-16 08:19:00,950 INFO stopped: backend (exit status 0)
+2025-09-16 08:19:02,016 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-16 08:19:02,017 INFO supervisord started with pid 315306
+2025-09-16 08:19:03,020 INFO spawned: 'backend' with pid 315377
+2025-09-16 08:19:03,022 INFO spawned: 'frontend' with pid 315380
+2025-09-16 08:19:04,585 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 08:19:04,585 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-16 09:05:52,899 WARN received SIGINT indicating exit request
+2025-09-16 09:05:52,899 INFO waiting for backend, frontend to die
+2025-09-16 09:05:53,900 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-16 09:05:53,900 WARN received SIGINT indicating exit request
+2025-09-16 09:05:54,119 INFO stopped: backend (exit status 0)
+2025-09-17 02:56:48,017 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-17 02:56:48,019 INFO supervisord started with pid 877107
+2025-09-17 02:56:49,021 INFO spawned: 'backend' with pid 877177
+2025-09-17 02:56:49,023 INFO spawned: 'frontend' with pid 877179
+2025-09-17 02:56:50,628 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 02:56:50,628 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 03:05:42,861 WARN received SIGINT indicating exit request
+2025-09-17 03:05:42,862 INFO waiting for backend, frontend to die
+2025-09-17 03:05:43,864 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-17 03:05:44,082 INFO stopped: backend (exit status 0)
+2025-09-17 03:05:46,801 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-17 03:05:46,803 INFO supervisord started with pid 888064
+2025-09-17 03:05:47,806 INFO spawned: 'backend' with pid 888586
+2025-09-17 03:05:47,807 INFO spawned: 'frontend' with pid 888587
+2025-09-17 03:05:49,402 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 03:05:49,402 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 03:10:11,550 WARN received SIGINT indicating exit request
+2025-09-17 03:10:11,550 INFO waiting for backend, frontend to die
+2025-09-17 03:10:12,552 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-17 03:10:12,553 WARN received SIGINT indicating exit request
+2025-09-17 03:10:12,788 WARN received SIGINT indicating exit request
+2025-09-17 03:10:12,812 INFO stopped: backend (exit status 0)
+2025-09-17 03:15:37,943 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-17 03:15:37,945 INFO supervisord started with pid 907861
+2025-09-17 03:15:38,948 INFO spawned: 'backend' with pid 907938
+2025-09-17 03:15:38,949 INFO spawned: 'frontend' with pid 907939
+2025-09-17 03:15:40,548 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 03:15:40,548 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 03:18:56,446 WARN received SIGINT indicating exit request
+2025-09-17 03:18:56,447 INFO waiting for backend, frontend to die
+2025-09-17 03:18:57,449 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-17 03:18:57,731 INFO stopped: backend (exit status 0)
+2025-09-17 03:19:01,317 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-17 03:19:01,321 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-17 03:19:01,321 INFO supervisord started with pid 918108
+2025-09-17 03:19:02,325 INFO spawned: 'backend' with pid 918182
+2025-09-17 03:19:02,327 INFO spawned: 'frontend' with pid 918184
+2025-09-17 03:19:03,907 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 03:19:03,907 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 06:07:07,914 WARN received SIGINT indicating exit request
+2025-09-17 06:07:07,914 INFO waiting for backend, frontend to die
+2025-09-17 06:07:08,919 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-17 06:07:09,301 INFO stopped: backend (exit status 0)
+2025-09-17 06:07:10,810 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-17 06:07:10,813 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-17 06:07:10,813 INFO supervisord started with pid 1006476
+2025-09-17 06:07:11,816 INFO spawned: 'backend' with pid 1006549
+2025-09-17 06:07:11,818 INFO spawned: 'frontend' with pid 1006551
+2025-09-17 06:07:13,416 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-17 06:07:13,416 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 03:50:48,803 WARN received SIGINT indicating exit request
+2025-09-19 03:50:48,804 INFO waiting for backend, frontend to die
+2025-09-19 03:50:49,806 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-19 03:50:49,806 WARN received SIGINT indicating exit request
+2025-09-19 03:50:51,917 INFO waiting for backend to die
+2025-09-19 03:50:55,800 WARN received SIGINT indicating exit request
+2025-09-19 03:50:55,801 INFO waiting for backend to die
+2025-09-19 03:50:56,802 WARN received SIGINT indicating exit request
+2025-09-19 03:50:58,805 INFO waiting for backend to die
+2025-09-19 03:50:59,807 WARN killing 'backend' (1006549) with SIGKILL
+2025-09-19 03:51:00,799 WARN stopped: backend (terminated by SIGKILL)
+2025-09-19 03:53:28,561 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-19 03:53:28,568 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-19 03:53:28,568 INFO supervisord started with pid 2254172
+2025-09-19 03:53:29,571 INFO spawned: 'backend' with pid 2254976
+2025-09-19 03:53:29,573 INFO spawned: 'frontend' with pid 2254979
+2025-09-19 03:53:31,361 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 03:53:31,362 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 06:26:17,234 WARN received SIGINT indicating exit request
+2025-09-19 06:26:17,235 INFO waiting for backend, frontend to die
+2025-09-19 06:26:18,237 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-19 06:26:18,479 INFO stopped: backend (exit status 0)
+2025-09-19 06:26:19,716 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-19 06:26:19,719 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-19 06:26:19,720 INFO supervisord started with pid 2336666
+2025-09-19 06:26:20,723 INFO spawned: 'backend' with pid 2336753
+2025-09-19 06:26:20,725 INFO spawned: 'frontend' with pid 2336755
+2025-09-19 06:26:22,395 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 06:26:22,395 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 06:31:50,146 WARN received SIGINT indicating exit request
+2025-09-19 06:31:50,147 INFO waiting for backend, frontend to die
+2025-09-19 06:31:51,148 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-19 06:31:53,282 INFO waiting for backend to die
+2025-09-19 06:31:56,286 INFO waiting for backend to die
+2025-09-19 06:31:59,290 INFO waiting for backend to die
+2025-09-19 06:32:01,292 WARN killing 'backend' (2336753) with SIGKILL
+2025-09-19 06:32:01,292 WARN received SIGINT indicating exit request
+2025-09-19 06:32:02,293 WARN stopped: backend (terminated by SIGKILL)
+2025-09-19 06:32:03,702 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-19 06:32:03,706 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-19 06:32:03,706 INFO supervisord started with pid 2343826
+2025-09-19 06:32:04,709 INFO spawned: 'backend' with pid 2343837
+2025-09-19 06:32:04,711 INFO spawned: 'frontend' with pid 2343838
+2025-09-19 06:32:06,357 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 06:32:06,357 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 08:32:48,245 WARN received SIGINT indicating exit request
+2025-09-19 08:32:48,246 INFO waiting for backend, frontend to die
+2025-09-19 08:32:49,248 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-19 08:32:51,484 INFO waiting for backend to die
+2025-09-19 08:32:54,487 WARN received SIGINT indicating exit request
+2025-09-19 08:32:54,487 INFO waiting for backend to die
+2025-09-19 08:32:56,489 WARN received SIGINT indicating exit request
+2025-09-19 08:32:57,490 INFO waiting for backend to die
+2025-09-19 08:32:59,493 WARN killing 'backend' (2343837) with SIGKILL
+2025-09-19 08:32:59,684 WARN stopped: backend (terminated by SIGKILL)
+2025-09-19 08:33:09,223 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-19 08:33:09,228 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-19 08:33:09,228 INFO supervisord started with pid 2423088
+2025-09-19 08:33:10,230 INFO spawned: 'backend' with pid 2423199
+2025-09-19 08:33:10,231 INFO spawned: 'frontend' with pid 2423200
+2025-09-19 08:33:11,968 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-19 08:33:11,968 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 02:03:59,901 WARN received SIGINT indicating exit request
+2025-09-22 02:03:59,901 INFO waiting for backend, frontend to die
+2025-09-22 02:04:00,904 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 02:04:00,905 WARN received SIGINT indicating exit request
+2025-09-22 02:04:01,170 INFO stopped: backend (exit status 0)
+2025-09-22 02:04:03,050 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 02:04:03,054 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 02:04:03,054 INFO supervisord started with pid 2770005
+2025-09-22 02:04:04,057 INFO spawned: 'backend' with pid 2770098
+2025-09-22 02:04:04,059 INFO spawned: 'frontend' with pid 2770099
+2025-09-22 02:04:05,720 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 02:04:05,720 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 02:25:21,014 WARN received SIGINT indicating exit request
+2025-09-22 02:25:21,015 INFO waiting for backend, frontend to die
+2025-09-22 02:25:22,017 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 02:25:22,017 WARN received SIGINT indicating exit request
+2025-09-22 02:25:22,268 INFO stopped: backend (exit status 0)
+2025-09-22 02:25:43,783 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 02:25:43,787 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 02:25:43,788 INFO supervisord started with pid 2793603
+2025-09-22 02:25:44,790 INFO spawned: 'backend' with pid 2793700
+2025-09-22 02:25:44,792 INFO spawned: 'frontend' with pid 2793703
+2025-09-22 02:25:46,539 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 02:25:46,539 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 02:55:43,345 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 02:55:43,348 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 02:55:43,348 INFO supervisord started with pid 2806901
+2025-09-22 02:55:44,351 INFO spawned: 'backend' with pid 2806982
+2025-09-22 02:55:44,352 INFO spawned: 'frontend' with pid 2806986
+2025-09-22 02:55:44,461 WARN exited: backend (exit status 1; not expected)
+2025-09-22 02:55:45,957 INFO spawned: 'backend' with pid 2807655
+2025-09-22 02:55:45,957 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 02:55:46,054 WARN exited: backend (exit status 1; not expected)
+2025-09-22 02:55:48,323 INFO spawned: 'backend' with pid 2807683
+2025-09-22 02:55:48,425 WARN exited: backend (exit status 1; not expected)
+2025-09-22 02:55:51,431 INFO spawned: 'backend' with pid 2808438
+2025-09-22 02:55:51,529 WARN exited: backend (exit status 1; not expected)
+2025-09-22 02:55:52,531 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 03:22:21,379 WARN received SIGINT indicating exit request
+2025-09-22 03:22:21,380 INFO waiting for frontend to die
+2025-09-22 03:22:22,381 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 03:22:39,258 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 03:22:39,262 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 03:22:39,262 INFO supervisord started with pid 2826942
+2025-09-22 03:22:40,265 INFO spawned: 'backend' with pid 2827032
+2025-09-22 03:22:40,267 INFO spawned: 'frontend' with pid 2827034
+2025-09-22 03:22:40,382 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:22:42,034 INFO spawned: 'backend' with pid 2827730
+2025-09-22 03:22:42,035 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 03:22:42,136 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:22:44,605 INFO spawned: 'backend' with pid 2827762
+2025-09-22 03:22:44,700 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:22:47,707 INFO spawned: 'backend' with pid 2828524
+2025-09-22 03:22:47,808 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:22:48,810 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 03:43:47,370 WARN received SIGINT indicating exit request
+2025-09-22 03:43:47,371 INFO waiting for frontend to die
+2025-09-22 03:43:48,372 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 03:43:50,230 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 03:43:50,234 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 03:43:50,234 INFO supervisord started with pid 2843080
+2025-09-22 03:43:51,237 INFO spawned: 'backend' with pid 2843161
+2025-09-22 03:43:51,239 INFO spawned: 'frontend' with pid 2843164
+2025-09-22 03:43:51,370 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:43:52,985 INFO spawned: 'backend' with pid 2843864
+2025-09-22 03:43:52,986 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 03:43:53,149 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:43:55,743 INFO spawned: 'backend' with pid 2844683
+2025-09-22 03:43:55,850 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:43:58,855 INFO spawned: 'backend' with pid 2845107
+2025-09-22 03:43:58,963 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:43:59,965 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 03:45:31,074 WARN received SIGINT indicating exit request
+2025-09-22 03:45:31,075 INFO waiting for frontend to die
+2025-09-22 03:45:32,077 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 03:45:43,923 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 03:45:43,927 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 03:45:43,927 INFO supervisord started with pid 2848807
+2025-09-22 03:45:44,929 INFO spawned: 'backend' with pid 2848884
+2025-09-22 03:45:44,931 INFO spawned: 'frontend' with pid 2848886
+2025-09-22 03:45:45,041 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:45:46,569 INFO spawned: 'backend' with pid 2849582
+2025-09-22 03:45:46,569 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 03:45:46,674 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:45:48,918 INFO spawned: 'backend' with pid 2849610
+2025-09-22 03:45:49,014 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:45:52,020 INFO spawned: 'backend' with pid 2850396
+2025-09-22 03:45:52,115 WARN exited: backend (exit status 1; not expected)
+2025-09-22 03:45:53,117 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:11:49,450 WARN received SIGINT indicating exit request
+2025-09-22 05:11:49,451 INFO waiting for frontend to die
+2025-09-22 05:11:50,453 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 05:12:18,918 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:12:18,921 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:12:18,922 INFO supervisord started with pid 2902077
+2025-09-22 05:12:19,924 INFO spawned: 'backend' with pid 2902157
+2025-09-22 05:12:19,925 INFO spawned: 'frontend' with pid 2902159
+2025-09-22 05:12:20,027 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:12:21,547 INFO spawned: 'backend' with pid 2902866
+2025-09-22 05:12:21,547 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:12:21,642 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:12:23,889 INFO spawned: 'backend' with pid 2902894
+2025-09-22 05:12:23,986 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:12:26,991 INFO spawned: 'backend' with pid 2903694
+2025-09-22 05:12:27,085 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:12:28,087 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:18:55,565 WARN received SIGINT indicating exit request
+2025-09-22 05:18:55,565 INFO waiting for frontend to die
+2025-09-22 05:18:56,568 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 05:18:59,732 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:18:59,738 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:18:59,738 INFO supervisord started with pid 2909013
+2025-09-22 05:19:00,742 INFO spawned: 'backend' with pid 2909021
+2025-09-22 05:19:00,744 INFO spawned: 'frontend' with pid 2909022
+2025-09-22 05:19:00,853 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:19:02,373 INFO spawned: 'backend' with pid 2909818
+2025-09-22 05:19:02,374 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:19:02,470 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:19:04,757 INFO spawned: 'backend' with pid 2909846
+2025-09-22 05:19:04,855 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:19:07,860 INFO spawned: 'backend' with pid 2910643
+2025-09-22 05:19:07,956 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:19:08,958 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:20:51,082 WARN received SIGINT indicating exit request
+2025-09-22 05:20:51,083 INFO waiting for frontend to die
+2025-09-22 05:20:52,085 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 05:21:06,182 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:21:06,186 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:21:06,186 INFO supervisord started with pid 2914129
+2025-09-22 05:21:07,189 INFO spawned: 'backend' with pid 2914208
+2025-09-22 05:21:07,191 INFO spawned: 'frontend' with pid 2914210
+2025-09-22 05:21:07,299 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:08,797 INFO spawned: 'backend' with pid 2914942
+2025-09-22 05:21:08,797 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:21:08,894 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:11,117 INFO spawned: 'backend' with pid 2914970
+2025-09-22 05:21:11,214 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:14,218 INFO spawned: 'backend' with pid 2915784
+2025-09-22 05:21:14,318 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:15,320 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:21:45,356 WARN received SIGINT indicating exit request
+2025-09-22 05:21:45,356 INFO waiting for frontend to die
+2025-09-22 05:21:46,358 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 05:21:47,123 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:21:47,126 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:21:47,127 INFO supervisord started with pid 2917487
+2025-09-22 05:21:48,128 INFO spawned: 'backend' with pid 2917708
+2025-09-22 05:21:48,130 INFO spawned: 'frontend' with pid 2917710
+2025-09-22 05:21:48,387 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:49,769 INFO spawned: 'backend' with pid 2918448
+2025-09-22 05:21:49,769 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:21:49,870 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:52,150 INFO spawned: 'backend' with pid 2919130
+2025-09-22 05:21:52,263 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:55,269 INFO spawned: 'backend' with pid 2919291
+2025-09-22 05:21:55,365 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:21:56,366 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:22:57,834 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:22:57,837 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:22:57,838 INFO supervisord started with pid 2922287
+2025-09-22 05:22:58,841 INFO spawned: 'backend' with pid 2922376
+2025-09-22 05:22:58,843 INFO spawned: 'frontend' with pid 2922378
+2025-09-22 05:22:58,958 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:23:00,476 INFO spawned: 'backend' with pid 2923145
+2025-09-22 05:23:00,476 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:23:00,576 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:23:02,883 INFO spawned: 'backend' with pid 2923996
+2025-09-22 05:23:02,979 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:23:05,984 INFO spawned: 'backend' with pid 2924032
+2025-09-22 05:23:06,078 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:23:07,079 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:25:02,219 WARN received SIGINT indicating exit request
+2025-09-22 05:25:02,220 INFO waiting for frontend to die
+2025-09-22 05:25:03,222 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 05:25:05,660 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:25:05,664 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:25:05,664 INFO supervisord started with pid 2928155
+2025-09-22 05:25:06,667 INFO spawned: 'backend' with pid 2928630
+2025-09-22 05:25:06,669 INFO spawned: 'frontend' with pid 2928634
+2025-09-22 05:25:06,785 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:25:08,336 INFO spawned: 'backend' with pid 2929558
+2025-09-22 05:25:08,337 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:25:08,449 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:25:10,811 INFO spawned: 'backend' with pid 2930193
+2025-09-22 05:25:10,908 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:25:13,912 INFO spawned: 'backend' with pid 2930902
+2025-09-22 05:25:14,023 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:25:15,025 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:42:41,297 WARN received SIGINT indicating exit request
+2025-09-22 05:42:41,297 INFO waiting for frontend to die
+2025-09-22 05:42:42,299 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 05:42:43,612 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:42:43,617 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:42:43,618 INFO supervisord started with pid 2942632
+2025-09-22 05:42:44,620 INFO spawned: 'backend' with pid 2942750
+2025-09-22 05:42:44,622 INFO spawned: 'frontend' with pid 2942755
+2025-09-22 05:42:44,742 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:42:46,305 INFO spawned: 'backend' with pid 2943487
+2025-09-22 05:42:46,305 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:42:46,405 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:42:48,755 INFO spawned: 'backend' with pid 2944326
+2025-09-22 05:42:49,855 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:42:49,855 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:42:50,859 INFO spawned: 'backend' with pid 2944341
+2025-09-22 05:42:51,956 INFO success: backend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:42:51,956 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:42:52,960 INFO spawned: 'backend' with pid 2945180
+2025-09-22 05:42:53,056 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:42:54,059 INFO spawned: 'backend' with pid 2945199
+2025-09-22 05:42:54,163 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:42:56,169 INFO spawned: 'backend' with pid 2945214
+2025-09-22 05:42:56,268 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:42:59,273 INFO spawned: 'backend' with pid 2946076
+2025-09-22 05:42:59,370 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:43:00,371 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:48:05,748 WARN received SIGINT indicating exit request
+2025-09-22 05:48:05,749 INFO waiting for frontend to die
+2025-09-22 05:48:06,751 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 05:52:21,824 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 05:52:21,827 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 05:52:21,827 INFO supervisord started with pid 2961130
+2025-09-22 05:52:22,831 INFO spawned: 'backend' with pid 2961210
+2025-09-22 05:52:22,832 INFO spawned: 'frontend' with pid 2961212
+2025-09-22 05:52:22,933 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:52:24,468 INFO spawned: 'backend' with pid 2961988
+2025-09-22 05:52:24,468 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 05:52:24,566 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:52:26,837 INFO spawned: 'backend' with pid 2962567
+2025-09-22 05:52:26,946 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:52:29,951 INFO spawned: 'backend' with pid 2962873
+2025-09-22 05:52:30,050 WARN exited: backend (exit status 1; not expected)
+2025-09-22 05:52:31,051 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 05:53:01,088 WARN received SIGINT indicating exit request
+2025-09-22 05:53:01,089 INFO waiting for frontend to die
+2025-09-22 05:53:02,091 WARN stopped: frontend (terminated by SIGTERM)
+2025-09-22 06:00:06,366 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-09-22 06:00:06,370 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-22 06:00:06,370 INFO supervisord started with pid 2998549
+2025-09-22 06:00:07,373 INFO spawned: 'backend' with pid 2998580
+2025-09-22 06:00:07,375 INFO spawned: 'frontend' with pid 2998581
+2025-09-22 06:00:07,475 WARN exited: backend (exit status 1; not expected)
+2025-09-22 06:00:08,958 INFO spawned: 'backend' with pid 2998620
+2025-09-22 06:00:08,959 INFO success: frontend entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-22 06:00:09,073 WARN exited: backend (exit status 1; not expected)
+2025-09-22 06:00:11,392 INFO spawned: 'backend' with pid 2998655
+2025-09-22 06:00:11,498 WARN exited: backend (exit status 1; not expected)
+2025-09-22 06:00:14,504 INFO spawned: 'backend' with pid 2998710
+2025-09-22 06:00:14,604 WARN exited: backend (exit status 1; not expected)
+2025-09-22 06:00:15,606 INFO gave up: backend entered FATAL state, too many start retries too quickly
+2025-09-22 06:01:22,683 WARN received SIGINT indicating exit request
+2025-09-22 06:01:22,684 INFO waiting for frontend to die
+2025-09-22 06:01:23,685 WARN stopped: frontend (terminated by SIGTERM)
